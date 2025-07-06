@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DigitalSignature.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DigitalSignature.3n003ei96k.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\fonts\\NotoSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\images\\finki_logo.png",
+      "PackagePath": "staticwebassets\\images\\finki_logo.png"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\images\\ukim_logo.png",
+      "PackagePath": "staticwebassets\\images\\ukim_logo.png"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\signed\\bf60db0e-aed2-4b93-9708-81c266f83eb0.pdf",
+      "PackagePath": "staticwebassets\\signed\\bf60db0e-aed2-4b93-9708-81c266f83eb0.pdf"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\signed\\c2c0f641-fab2-4fba-8201-6f15093c502c.pdf",
+      "PackagePath": "staticwebassets\\signed\\c2c0f641-fab2-4fba-8201-6f15093c502c.pdf"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\signed\\signed_bf60db0e-aed2-4b93-9708-81c266f83eb0.pdf",
+      "PackagePath": "staticwebassets\\signed\\signed_bf60db0e-aed2-4b93-9708-81c266f83eb0.pdf"
+    },
+    {
+      "Id": "D:\\Fakultet\\Semestri\\VI Semestar\\IS\\Proekt\\DigitalSignature\\DigitalSignature\\wwwroot\\signed\\signed_c2c0f641-fab2-4fba-8201-6f15093c502c.pdf",
+      "PackagePath": "staticwebassets\\signed\\signed_c2c0f641-fab2-4fba-8201-6f15093c502c.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigitalSignature.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigitalSignature.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DigitalSignature.props",
+      "PackagePath": "build\\DigitalSignature.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DigitalSignature.props",
+      "PackagePath": "buildMultiTargeting\\DigitalSignature.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DigitalSignature.props",
+      "PackagePath": "buildTransitive\\DigitalSignature.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

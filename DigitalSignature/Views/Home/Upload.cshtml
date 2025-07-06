@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "PDF Upload";
+}
+
+<h2>Upload a PDF</h2>
+
+<form method="post" enctype="multipart/form-data" action="/api/pdfsigning/upload">
+    <input type="file" name="file" accept=".pdf" required />
+    <br /><br />
+    <button type="submit">Upload & Sign</button>
+</form>

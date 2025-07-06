@@ -1,0 +1,4 @@
+D:\Fakultet\Semestri\VI Semestar\IS\Proekt\DigitalSignature\DigitalSignature\wwwroot\signed\bf60db0e-aed2-4b93-9708-81c266f83eb0.pdf
+D:\Fakultet\Semestri\VI Semestar\IS\Proekt\DigitalSignature\DigitalSignature\wwwroot\signed\c2c0f641-fab2-4fba-8201-6f15093c502c.pdf
+D:\Fakultet\Semestri\VI Semestar\IS\Proekt\DigitalSignature\DigitalSignature\wwwroot\signed\signed_bf60db0e-aed2-4b93-9708-81c266f83eb0.pdf
+D:\Fakultet\Semestri\VI Semestar\IS\Proekt\DigitalSignature\DigitalSignature\wwwroot\signed\signed_c2c0f641-fab2-4fba-8201-6f15093c502c.pdf
